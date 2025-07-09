@@ -1,0 +1,23 @@
+The Java Collection Framework is a unified architecture for storing and manipulating groups of objects. It provides ready-to-use interfaces, classes, and algorithms to handle data efficiently.
+
+It includes:
+Interfaces – Core interfaces like List, Set, Queue, Deque, and Map.
+
+Implementations – Concrete classes like ArrayList, LinkedList, HashSet, TreeSet, PriorityQueue, HashMap, and TreeMap.
+
+Algorithms – Utility methods in the Collections class for sorting, searching, shuffling, reversing, and more.
+
+Utility Classes – Like Collections and Arrays for common operations.
+
+Legacy Classes – Older classes like Vector, Hashtable, and Stack, now part of the framework.
+
+It allows developers to handle data dynamically with powerful features like generics, type safety, and automatic resizing, making Java programming more efficient and less error-prone.
+
+
+
+
+
+
+
+
+
